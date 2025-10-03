@@ -146,7 +146,5 @@ function addTask() {
 <img width="1439" height="834" alt="image" src="https://github.com/user-attachments/assets/57f613f3-9830-4c1b-8ee9-8d7a1531a586" />
 
 
-
-
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
